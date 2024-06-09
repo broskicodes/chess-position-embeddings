@@ -1,0 +1,7 @@
+.env
+openings.json
+worker-template/
+models/*
+pgns/*
+positions/*
+*.ipynb
