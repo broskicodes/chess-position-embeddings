@@ -4,4 +4,4 @@ worker-template/
 models/*
 pgns/*
 positions/*
-*.ipynb
+positions.ipynb
